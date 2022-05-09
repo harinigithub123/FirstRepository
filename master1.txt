@@ -1,1 +1,2 @@
 This is the second git file to be committed
+i am committing the other time 
